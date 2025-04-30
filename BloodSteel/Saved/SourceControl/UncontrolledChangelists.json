@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/Config/BP_MyGameMode.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/Config/BP_MyGameInstance.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/Config/BP_MyPlayerController.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/InteractiveActors/BP_InteractiveActor.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/InteractiveActors/BP_Interruptor.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/InteractiveActors/BP_Lamp.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/Widgets/WBP_HUB.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/FunctionLibraries/FL_HPArmadura.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/OverlappingActors/BP_OverlappingActor.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/OverlappingActors/BP_Armadura.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/OverlappingActors/BP_Tramp.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/3M/X0TAKRSEGTUGS8479I34HI.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/ZD/RJH52VS6AOTE84EIIP27T4.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/OverlappingActors/BP_Salud.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/7N/BSJZMD9S424Z4NV0J7A4UW.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/OverlappingActors/BP_CheckPoint.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Textures/E.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/Widgets/WBP_Interact.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PE/3E4VLYWS1CLZ18KNYFOPXZ.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/XJ/IVMOMADMSUEUWNU03OYBOZ.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/Widgets/WBP_PauseMenu.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/DV/K3B55HBM92Y24P01X7VOK8.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/FirstPerson/Input/Actions/IA_Pause.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/IQ/BCDQ0L288TCJ0KJLY0EZN5.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/3X/5D54Q4VZ5OM5J1N5GY63W0.uasset",
+				"C:/ProduccionVideojuegosMultimedia/PrototipoJuego/BloodSteel/Content/Blueprints/OverlappingActors/BP_Salid.uasset"
+			]
+		}
+	]
+}
