@@ -1,0 +1,41 @@
+﻿Log file open, 09/08/25 16:40:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=3096)
+LogWindows: Custom abort handler registered for crash reporting.
+LogInit: Display: Running engine for game: BloodSteel
+LogCore: UTS: Unreal Trace Server launched successfully
+LogTrace: Initializing trace...
+LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+LogTrace: Display: Display Control listening on port 1985
+LogTrace: Finished trace initialization.
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.5-CL-40574608"
+LogCsvProfiler: Display: Metadata set : engineversion="5.5.4-40574608+++UE5+Release-5.5"
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.6216] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+LogCsvProfiler: Display: Metadata set : asan="0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\ProduccionVideojuegosMultimedia\PrototipoJuego\BloodSteelRepositorio\BloodSteel\BloodSteel.uproject -game""
+LogCsvProfiler: Display: Metadata set : loginid="ac59583241a27c7e05ded7bd48c67c57"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 0.261614
+LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F9EAC02A42F8B88089F78CA5F24C7275
+         Session CrashGUID >====================================================
+LogWindows: Error: appError called: Assertion failed: false [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\UObject\UnrealNames.cpp] [Line: 3206] 
+FName's 1023 max length exceeded. Got 2786 characters excluding null-terminator:
+Lighting Components,AI_Fornax_C.Physics.ConstraintsGroup,AI_Fornax_C.TransformCommon.Transform,AI_CuerpoACuerpo_C.TransformCommon.Transform,AI_CuerpoACuerpo_C.Physics.ConstraintsGroup,AI_Centinela_C.Physics.ConstraintsGroup,AI_Zepherys_C.Physics.ConstraintsGroup,AI_Zepherys_C.TransformCommon.Transform,AI_MeleeEnemy_C.Physics.ConstraintsGroup,CapsuleComponent.Physics.ConstraintsGroup,GameMapsSettings.DefaultModes.SelectedGameModeDetails,InputSettings.Platforms.InputPlatformSettings_Android,InputSettings.Platforms.InputPlatformSettings_IOS,InputSettings.Platforms.InputPlatformSettings_Linux,InputSettings.Platforms.InputPlatformSettings_LinuxArm64,InputSettings.Platforms.InputPlatformSettings_Mac,InputSettings.Platforms.InputPlatformSettings_TVOS,InputSettings.Platforms.InputPlatformSettings_Windows,IOSRuntimeSettings.Remote Build.Remote Build Options,IOSRuntimeSettings.Remote Build.Secondary Remote Build Options,EditorKeyboardShortcutSettings.EditorViewport.ShowTextureScale,EditorKeyboardShortcutSettings.Editor
+
+LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
